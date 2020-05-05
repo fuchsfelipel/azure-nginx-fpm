@@ -8,4 +8,5 @@ Repo containing docker container for running PHP7.3-FPM and Nginx Microsoft Azur
 
 # Installing Prestashop
 This image will create an empty Nginx + PHP7.3-FPM container. To install prestashop download the installation zip from Prestashop's website and unzip it in the /home/site/wwwroot directory. Follow the installation as usual.
-Tip: use apt-get update && apt-get install unzip && unzip [PrestaShop_downloaded_file_here.zip, without the brackets XD].
+
+`Tip: use apt-get update && apt-get install unzip && unzip [PrestaShop_downloaded_file_here.zip, without the brackets XD].`
